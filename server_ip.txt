@@ -1,0 +1,3 @@
+aacontroltest.ptcnet.ptc.com:443
+aacontrol01t.ptcnet.ptc.com:443
+aacontrol02t.ptcnet.ptc.com:443
